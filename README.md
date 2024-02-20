@@ -9,8 +9,8 @@ O projeto tem como objetivo auxiliar e facilitar o usuário com uma vida leve e 
 | ------------- | ------------- |
 |   [Felipe Kaua Lemos](https://github.com/Lemos56)  | 0030482211025  |
 |   [Gabriel Caetano de Oliveira Moreira](https://github.com/c4etan0w)  | 0030482211022  |
-|   [Ismael Barbosa da Silva](https://github.com/ismael-silva)  | 0030482211030 |
-|   [Jaqueline Pena dos Santos Silva](https://github.com/jaqueline-pena)  | 0030482211011  |
+|   [Michael Douglas Nascimento de Lima](https://github.com/MichaelDouglasLima)  | 0030482211041  |
+|   [Bruno de Lima Lara](https://github.com/Brunodelimalara) |  0030482221036  |
 |   [Luan Diemer de Melo Nista](https://github.com/luandiemer) |  0030482211016  |
 
 
