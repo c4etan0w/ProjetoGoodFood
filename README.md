@@ -34,12 +34,13 @@ Pretendemos implementar uma maneira de avaliação do usuário para o nutricioni
 ### FrontEnd:
 -   .html
 -   .css
+-   .js
+-   .bootstrap
 
 ### BackEnd
--   .js
+-   springboot
+-   .java
   
-### Biblioteca Java Script
--   React Native
 
 ### Banco de Dados
 -   Oracle
@@ -47,8 +48,6 @@ Pretendemos implementar uma maneira de avaliação do usuário para o nutricioni
 # Ferramentas
 
 - Figma
-
-- Android Studio
 
 - Visual Studio Code
 
