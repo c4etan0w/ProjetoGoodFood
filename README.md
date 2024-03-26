@@ -93,6 +93,3 @@ Acesse a prototipação pelo Figma
 
 [Link do Relatório de Requisitos](https://fatecspgov-my.sharepoint.com/:w:/g/personal/jaqueline_silva103_fatec_sp_gov_br/EW6agN417r9NtqwSsk-GUdMBHB9-BJFsJlXFnLPRllinMw)
 
-## Documentação do Desenvolvimento do Software
-[Link do Documento do Desenvolvimento do Software](https://fatecspgov-my.sharepoint.com/:w:/r/personal/gabriel_moreira35_fatec_sp_gov_br/Documents/TRABALHO%20DE%20GRADUA%C3%87%C3%83O/TG%20-%20GoodFood.docx?d=w9c34711538c84fff9bc37f8803d0dd8a&csf=1&web=1&e=jm5EjX)
-
